@@ -200,6 +200,7 @@ section.title {
 
 /* Sessão About */
 section.about {
+    width:100%
     display: flex;
     align-items: center;
     background-color: var(--cor-de-fundo-2);
