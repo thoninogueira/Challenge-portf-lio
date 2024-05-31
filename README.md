@@ -10,7 +10,19 @@ Bash Copiar código git clone https://github.com/thoninogueira/desafio-portifoli
 
 Bash Copiar código CD Desafio-Portifólio. Abra o index.html em seu navegador:
 
-Você pode abrir o arquivo index.html diretamente no seu navegador ou utilizar uma extensão como "Live Server" no Visual Studio Code para um recarregamento automático. Estrutura do Projeto Css Copiar código ├── VSCode/ │ ├── settings.js | |portifólio-principal | | ativo | ├── index.html | ├── normalize.css | ├── style.css | ├── validade.js │ └── README.md Sobre Mim Sou um desenvolvedor front-end com pouca experiência em tecnologias web. Meu objetivo é criar soluções eficientes e elegantes que proporcionem uma ótima experiência ao usuário.
+Você pode abrir o arquivo index.html diretamente no seu navegador ou utilizar uma extensão como "Live Server" no Visual Studio Code para um recarregamento automático. Estrutura do Projeto Css Copiar código
+├── VSCode/ 
+│   ├── settings.js 
+| 
+|portifólio-principal 
+| 
+| ativo 
+|     ├── index.html 
+|     ├── normalize.css
+|     ├── style.css 
+|     ├── validade.js 
+│ 
+└── README.md Sobre Mim Sou um desenvolvedor front-end com pouca experiência em tecnologias web. Meu objetivo é criar soluções eficientes e elegantes que proporcionem uma ótima experiência ao usuário.
 
 Habilidades Linguagens de Programação: JavaScript, HTML, CSS Frameworks e Bibliotecas: React, Node.js Ferramentas e Plataformas: Git, Visual Studio Code, Webpack Design: Adobe Photoshop, Figma Hobbies Criar Imagens e Vídeos: Adoro explorar minha criatividade através do design gráfico e edição de vídeos. Desenvolvimento Web: Passo meu tempo livre desenvolvendo páginas web e aplicativos. Aprendizado Contínuo: Estou sempre buscando novos conhecimentos e habilidades. Formações e Cursos Bacharelado em Ciência da Computação - Universidade Unopar Curso de Desenvolvimento Front-end - Alura
 
